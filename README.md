@@ -28,7 +28,7 @@ SECRET_KEY=random_secret_key (generate a hash key)
 CREATE DATABASE studyAiBudyDb;
 ```
 # CREATING TABLES----
-    lacate MYDB.SQL in backend folder > copy the schema and run it in your workbench
+    locate MYDB.SQL in backend folder > copy the schema and run it in your workbench
 # running the program
  ```bash
    cd backend
