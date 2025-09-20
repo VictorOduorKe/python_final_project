@@ -45,7 +45,9 @@ CREATE DATABASE studyAiBudyDb;
    use liveserver to run the frontend and get the port its running on
    navigate back to backend/app.py and set the origins url to match the port your frontend is running on;
    makes sure all api endpoints in frontend/js files are pointing to http://127.0.0.1:5000
+
    ```
+   in browser navigate to how it works on the navigation bar to start using the platform after successfull installation or visit the already hosted app here <a href="https://studyaibudy.netlify.app">view the live site</a>
 
 Welcome to Study AI Buddy, a smart platform that helps students generate tailored study plans, take quizzes, and track learning progress—all powered by AI and a secure backend. This document explains the full development process, including frontend, backend, database, and integration with AI APIs.
 [Visit my pitch deck](https://www.canva.com/design/DAGxwlZ1pHg/W4Sh_-5CifIe0os3JjfEIA/edit?utm_content=DAGxwlZ1pHg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton "pitch dck")
@@ -220,3 +222,4 @@ Full subject and quiz management
 Scalable, secure, and user-friendly
 
 The visual flow diagrams make it easier to understand how each component interacts.
+

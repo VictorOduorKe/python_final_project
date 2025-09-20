@@ -1,0 +1,197 @@
+[
+    {
+        "goal": "Solve 80% of linear and quadratic equations correctly in a practice test.",
+        "week": 1,
+        "topic": "Algebra",
+        "topicShortNotes": [
+            "Solving linear equations and inequalities",
+            "Simplifying algebraic expressions",
+            "Factorization of quadratic expressions",
+            "Simultaneous equations"
+        ]
+    },
+    {
+        "goal": "Accurately apply geometric theorems to solve 10 problems correctly.",
+        "week": 2,
+        "topic": "Geometry",
+        "topicShortNotes": [
+            "Properties of triangles, quadrilaterals, and circles",
+            "Pythagorean theorem and trigonometric ratios",
+            "Mensuration (area and volume)",
+            "Geometric constructions"
+        ]
+    },
+    {
+        "goal": "Solve 5 out of 7 trigonometric problems accurately within 30 minutes.",
+        "week": 3,
+        "topic": "Trigonometry",
+        "topicShortNotes": [
+            "Trigonometric ratios (sine, cosine, tangent)",
+            "Trigonometric identities",
+            "Solving trigonometric equations",
+            "Applications of trigonometry"
+        ]
+    },
+    {
+        "goal": "Differentiate and integrate 5 functions correctly.",
+        "week": 4,
+        "topic": "Calculus (Introduction)",
+        "topicShortNotes": [
+            "Concept of limits and derivatives",
+            "Differentiation of simple functions",
+            "Application of derivatives (rates of change)",
+            "Basic integration"
+        ]
+    },
+    {
+        "goal": "Calculate mean, median, mode, and range for a given data set correctly.",
+        "week": 5,
+        "topic": "Statistics",
+        "topicShortNotes": [
+            "Measures of central tendency (mean, median, mode)",
+            "Measures of dispersion (range, variance, standard deviation)",
+            "Probability",
+            "Data representation (graphs and charts)"
+        ]
+    },
+    {
+        "goal": "Accurately solve vector addition and subtraction problems.",
+        "week": 6,
+        "topic": "Vectors",
+        "topicShortNotes": [
+            "Vector representation and operations (addition, subtraction)",
+            "Scalar and vector products",
+            "Applications of vectors in geometry",
+            "Resolution of vectors"
+        ]
+    },
+    {
+        "goal": "Score 80% or higher on a full-length practice exam.",
+        "week": 7,
+        "topic": "Revision and Practice Exams",
+        "topicShortNotes": [
+            "Review all topics covered",
+            "Practice past papers",
+            "Identify weak areas and focus on improvement",
+            "Time management during exam practice"
+        ]
+    }
+]
+
+[
+    {
+        "goal": "Master basic grammar rules and identify sentence types.",
+        "week": "1",
+        "topic": "Grammar Fundamentals (Parts of Speech, Sentence Structure)"
+    },
+    {
+        "goal": "Learn to write effective introductions and develop strong thesis statements.",
+        "week": "2",
+        "topic": "Essay Writing: Introduction & Thesis Statements"
+    },
+    {
+        "goal": "Develop skill in constructing well-supported body paragraphs using evidence.",
+        "week": "3",
+        "topic": "Essay Writing: Body Paragraphs & Evidence"
+    },
+    {
+        "goal": "Master writing effective conclusions and editing techniques.",
+        "week": "4",
+        "topic": "Essay Writing: Conclusion & Editing"
+    },
+    {
+        "goal": "Learn to identify and analyze themes and motifs in literary texts.",
+        "week": "5",
+        "topic": "Literary Analysis: Identifying Themes & Motifs"
+    },
+    {
+        "goal": "Analyze character development and the impact of setting on literary works.",
+        "week": "6",
+        "topic": "Literary Analysis: Character Development & Setting"
+    },
+    {
+        "goal": "Consolidate learning through practice essay writing and review of key concepts.",
+        "week": "7",
+        "topic": "Review & Practice Essay Writing"
+    }
+]
+
+[
+    {
+        "goal": "Students will be able to count, write, and identify numbers 1-20.",
+        "week": 1,
+        "topic": "Numbers 1-20",
+        "topicShortNotes": [
+            "Counting objects",
+            "Number recognition",
+            "Writing numbers 1-20",
+            "Number order"
+        ]
+    },
+    {
+        "goal": "Students will be able to add and subtract numbers within 10 accurately.",
+        "week": 2,
+        "topic": "Addition and Subtraction within 10",
+        "topicShortNotes": [
+            "Using objects to add and subtract",
+            "Addition facts to 10",
+            "Subtraction facts to 10",
+            "Number sentences"
+        ]
+    },
+    {
+        "goal": "Students will be able to identify and describe basic shapes and patterns.",
+        "week": 3,
+        "topic": "Shapes and Patterns",
+        "topicShortNotes": [
+            "Identifying basic shapes (circle, square, triangle, rectangle)",
+            "Creating patterns using shapes and colors",
+            "Describing patterns",
+            "Sorting shapes"
+        ]
+    },
+    {
+        "goal": "Students will be able to count, write, and identify numbers 1-100.",
+        "week": 4,
+        "topic": "Numbers 21-100",
+        "topicShortNotes": [
+            "Counting by tens",
+            "Counting by fives",
+            "Number recognition to 100",
+            "Writing numbers to 100"
+        ]
+    },
+    {
+        "goal": "Students will be able to add and subtract numbers within 20 accurately.",
+        "week": 5,
+        "topic": "Addition and Subtraction within 20",
+        "topicShortNotes": [
+            "Using ten frames",
+            "Adding and subtracting with regrouping",
+            "Addition facts to 20",
+            "Subtraction facts to 20"
+        ]
+    },
+    {
+        "goal": "Students will be able to measure length and interpret simple data.",
+        "week": 6,
+        "topic": "Measurement and Data",
+        "topicShortNotes": [
+            "Measuring length using non-standard units",
+            "Comparing lengths",
+            "Collecting and representing data using graphs",
+            "Interpreting data"
+        ]
+    },
+    {
+        "goal": "Students will demonstrate mastery of all key concepts covered in the curriculum.",
+        "week": 7,
+        "topic": "Review and Assessment",
+        "topicShortNotes": [
+            "Review of all concepts covered",
+            "Practice problems",
+            "Assessment activities",
+            "Identifying areas for improvement"
+        ]
+    }
+]
