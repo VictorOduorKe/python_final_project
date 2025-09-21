@@ -2,7 +2,7 @@
 # installation process
 
 ```bash
-git clone    #---clone the repo
+git clone https://github.com/VictorOduorKe/python_final_project.git   #---clone the repo
 cd backend
 python3 -m venv venv  #---create virtual environment
 source venv/bin/activate #---activate the enviromnent
