@@ -19,7 +19,7 @@ DB_USER=databse_username eg (admin/root)
 FLASK_ENV=development
 
 GEMINI_API_KEY=gemini_api_key
-GEMINI_API_URL=https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash
+GEMINI_API_URL=https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash
 SECRET_KEY=random_secret_key (generate a hash key)
 ```
 
